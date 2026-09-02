@@ -1,91 +1,51 @@
-# ESPECIALIDADES DIGITAIS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=SITES+INSTITUCIONAIS;LANDING+PAGES;PRESEN%C3%87A+DIGITAL;DESIGN+MODERNO+E+RESPONSIVO" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WEB%20DESIGN-020617?style=for-the-badge&logo=figma&logoColor=A78BFA"/>
-
-<img src="https://img.shields.io/badge/SITES%20INSTITUCIONAIS-020617?style=for-the-badge&logo=googlechrome&logoColor=A78BFA"/>
-
-<img src="https://img.shields.io/badge/LANDING%20PAGES-020617?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
-
-<img src="https://img.shields.io/badge/DESIGN%20RESPONSIVO-020617?style=for-the-badge&logo=css3&logoColor=A78BFA"/>
-
-</div>
-
 ---
 
-# O QUE EU CONSTRUO
+# PROJETOS EM DESTAQUE
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" align="center">
+<img 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=CLIENT+PROJECTS+DETECTED...;2+PROJETOS+EM+OPERA%C3%87%C3%83O...;SITES+DESENVOLVIDOS+PARA+CLIENTES..."
+/>
 
-<img src="https://cdn.simpleicons.org/googlechrome/A78BFA" width="55"/>
-
-<br/><br/>
-
-## SITES INSTITUCIONAIS
-
-Sites profissionais desenvolvidos para empresas, profissionais e negócios que precisam de uma presença digital moderna.
+</p>
 
 <br/>
 
-</td>
+<div align="center">
 
-<td width="50%" align="center">
+<img 
+src="https://i.postimg.cc/9FNy07HZ/Chat-GPT-Image-Sep-2-2026-01-43-49-AM.png"
+width="100%"
+alt="Projetos desenvolvidos"
+/>
 
-<img src="https://cdn.simpleicons.org/vercel/A78BFA" width="55"/>
-
-<br/><br/>
-
-## LANDING PAGES
-
-Páginas estratégicas criadas para apresentar serviços, produtos e transformar visitantes em clientes.
+</div>
 
 <br/>
 
-</td>
+<p align="center">
 
-</tr>
-</table>
+<img src="https://img.shields.io/badge/PROJECTS-02-7C3AED?style=for-the-badge&labelColor=020617"/>
 
----
+<img src="https://img.shields.io/badge/STATUS-ONLINE-020617?style=for-the-badge&labelColor=7C3AED"/>
 
-# CAPACIDADES
+<img src="https://img.shields.io/badge/TYPE-CLIENT_WEBSITES-020617?style=for-the-badge&labelColor=312E81"/>
+
+</p>
+
+<br/>
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│              WEB EXPERIENCE                 │
-│                                             │
-│     SITES INSTITUCIONAIS                    │
-│              │                              │
-│              ▼                              │
-│     LANDING PAGES                           │
-│              │                              │
-│              ▼                              │
-│     DESIGN RESPONSIVO                       │
-│              │                              │
-│              ▼                              │
-│     EXPERIÊNCIA DIGITAL                     │
-│                                             │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│        CLIENT PROJECTS // SHOWCASE           │
+│                                              │
+│   [ 01 ]  WEBSITE                            │
+│   [ 02 ]  PROFESSIONAL WEBSITE               │
+│                                              │
+│   STATUS: ONLINE                             │
+│                                              │
+└──────────────────────────────────────────────┘
