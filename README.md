@@ -1,54 +1,124 @@
-# 👋 Olá, eu sou o Nilton!
+<!-- ===================== HERO ===================== -->
 
-### 💻 Desenvolvedor Web
+<div align="center">
 
-> Criando sites modernos, rápidos e experiências digitais.
+# 👋 Olá, eu sou o Nilton
 
----
+### 💻 WEB DEVELOPER • DIGITAL CREATOR
 
-## 🚀 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;Criando+sites+modernos+e+personalizados.;Design.+Tecnologia.+Experi%C3%AAncia." />
 
-Sou desenvolvedor web focado na criação de sites modernos, responsivos e personalizados.
+<br/>
 
-- 💻 Desenvolvimento de sites personalizados
-- 🎨 Interfaces modernas e responsivas
-- 🚀 Projetos para empresas e profissionais
-- 🔒 Projetos de clientes com código-fonte privado
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 
----
+<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-111827?style=for-the-badge&logo=github&logoColor=white" />
 
-## 🛠️ Tecnologias
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode" />
-</p>
+<br/>
 
 ---
 
-## 💼 Meu trabalho
+<!-- ===================== SOBRE ===================== -->
 
-Desenvolvo projetos digitais personalizados para empresas, profissionais e clientes.
+# ⚡ Sobre mim
 
-Alguns projetos possuem código-fonte privado para proteger o trabalho desenvolvido e informações dos clientes.
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F1aXdzNXU4ZTZ0cXJ5ZmZ4c3B4eG92eTNyNWZ2b2p3bDJqNnF2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
 
-### 🌐 Serviços
+💻 Desenvolvedor Web focado na criação de experiências digitais.
 
-- Criação de sites institucionais
-- Landing pages
-- Sites personalizados
-- Interfaces modernas e responsivas
+🚀 Desenvolvo sites modernos, rápidos e personalizados.
 
----
+🎨 Meu objetivo é transformar ideias em projetos digitais com design profissional.
 
-## 📊 GitHub
+🔒 Projetos de clientes possuem código-fonte privado para proteger o trabalho e informações envolvidas.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=niltonev2026&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+<br clear="right"/>
 
 ---
 
-### ⭐ Confira meus projetos abaixo!
+<!-- ===================== SERVIÇOS ===================== -->
+
+<div align="center">
+
+# 🌐 O que eu desenvolvo
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+## 🏢
+
+### Sites Institucionais
+
+Sites modernos para empresas e profissionais.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🚀
+
+### Landing Pages
+
+Páginas criadas para apresentar produtos e serviços.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎨
+
+### Interfaces Modernas
+
+Experiências responsivas e personalizadas.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECNOLOGIAS ===================== -->
+
+<div align="center">
+
+# 🛠️ Tecnologias
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode&perline=9" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLEAN-CODE-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RESPONSIVE-DESIGN-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODERN-UI-111827?style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ===================== PROCESSO ===================== -->
+
+# ⚙️ Meu processo
+
+```text
+💡 IDEIA
+   │
+   ▼
+🎨 DESIGN
+   │
+   ▼
+💻 DESENVOLVIMENTO
+   │
+   ▼
+⚡ OTIMIZAÇÃO
+   │
+   ▼
+🚀 PROJETO ONLINE
