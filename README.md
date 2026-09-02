@@ -2,36 +2,50 @@
 
 ### 💻 Desenvolvedor Web
 
-Crio sites modernos, rápidos e personalizados para empresas e profissionais.
+> Criando sites modernos, rápidos e experiências digitais.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado na criação de experiências digitais modernas e funcionais.
+Sou desenvolvedor web focado na criação de sites modernos, responsivos e personalizados.
 
-💻 Desenvolvimento de sites personalizados  
-🎨 Interfaces modernas e responsivas  
-🚀 Projetos para empresas e profissionais  
+- 💻 Desenvolvimento de sites personalizados
+- 🎨 Interfaces modernas e responsivas
+- 🚀 Projetos para empresas e profissionais
+- 🔒 Projetos de clientes com código-fonte privado
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Projetos
+## 💼 Meu trabalho
 
-🔒 Alguns projetos desenvolvidos para clientes possuem código-fonte privado para proteger o trabalho e os dados envolvidos.
+Desenvolvo projetos digitais personalizados para empresas, profissionais e clientes.
 
-Atualmente desenvolvo sites personalizados e projetos digitais.
+Alguns projetos possuem código-fonte privado para proteger o trabalho desenvolvido e informações dos clientes.
+
+### 🌐 Serviços
+
+- Criação de sites institucionais
+- Landing pages
+- Sites personalizados
+- Interfaces modernas e responsivas
 
 ---
 
-## 📫 Contato
+## 📊 GitHub
 
-Entre em contato comigo através das minhas redes sociais.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niltonev2026&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### ⭐ Confira meus projetos abaixo!
