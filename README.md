@@ -1,36 +1,39 @@
-<!-- ========================= -->
-<!--       HERO ANIMADO        -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                     HERO CINEMATOGRÁFICO                   -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=300&section=header&text=NILTON%20DEVELOPER&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20DIGITAL%20EXPERIENCES&descAlignY=58&descSize=18"
-    width="100%"
-  />
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,35:111827,70:312E81,100:7C3AED&height=280&section=header&text=NILTON%20DEVELOPER&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=TECNOLOGIA%20%C2%B7%20DESIGN%20%C2%B7%20EXPERI%C3%8ANCIA%20DIGITAL&descAlignY=60&descSize=16"
+width="100%"
+/>
+
 </p>
 
 <br/>
 
-<!-- ========================= -->
-<!--      TYPING ANIMATION     -->
-<!-- ========================= -->
+<!-- SISTEMA DE STATUS -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Web+Developer;Building+modern+digital+experiences;Designing+interfaces+that+make+an+impact;Turning+ideas+into+real+projects"
-    alt="Typing Animation"
-  />
+
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-0B1220?style=for-the-badge&logo=statuspage&logoColor=7C3AED"/>
+
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-0B1220?style=for-the-badge&logo=googleearth&logoColor=7C3AED"/>
+
+<img src="https://img.shields.io/badge/FOCO-WEB_DEVELOPMENT-0B1220?style=for-the-badge&logo=code&logoColor=7C3AED"/>
+
 </p>
 
 <br/>
 
+<!-- TERMINAL ANIMADO -->
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/ROLE-WEB_DEVELOPER-7C3AED?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/FOCUS-WEB_EXPERIENCES-111111?style=for-the-badge&labelColor=7C3AED"/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=111111"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=950&lines=Inicializando+sistema+digital...;Desenvolvendo+experiências+modernas...;Transformando+ideias+em+produtos+reais...;Construindo+o+próximo+projeto..."
+/>
 
 </p>
 
@@ -38,144 +41,164 @@
 
 ---
 
-# About
+# CENTRO DE DESENVOLVIMENTO
 
 <table>
+
 <tr>
 
 <td width="60%">
 
-## Building digital experiences
+## Sobre mim
 
-I am a web developer focused on creating modern, responsive and personalized digital experiences.
+Sou desenvolvedor web focado na criação de experiências digitais modernas, profissionais e personalizadas.
 
-My work combines design, technology and functionality to transform ideas into professional websites.
+Meu objetivo é transformar uma ideia inicial em um produto digital completo, combinando:
 
-I focus on:
+- Design moderno
+- Desenvolvimento web
+- Responsividade
+- Performance
+- Experiência do usuário
 
-- Modern interfaces
-- Responsive experiences
-- Custom websites
-- Landing pages
-- Digital projects for clients
-
-Some client projects remain private to protect source code and project information.
+Desenvolvo projetos para empresas, profissionais e clientes que buscam uma presença digital diferenciada.
 
 </td>
 
 <td width="40%" align="center">
 
 <img
-src="https://github.com/your-github-username.png"
+src="https://github.com/niltonev2026.png"
 width="220"
-style="border-radius:50%;"
-alt="Profile"
+alt="Nilton Developer"
 />
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# Tech Stack
+# ÁREAS DE OPERAÇÃO
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/01-SITES_INSTITUCIONAIS-0D1117?style=for-the-badge&labelColor=7C3AED"/>
+
+<img src="https://img.shields.io/badge/02-LANDING_PAGES-0D1117?style=for-the-badge&labelColor=312E81"/>
+
+<img src="https://img.shields.io/badge/03-SITES_PERSONALIZADOS-0D1117?style=for-the-badge&labelColor=7C3AED"/>
+
+<img src="https://img.shields.io/badge/04-INTERFACES_MODERNAS-0D1117?style=for-the-badge&labelColor=312E81"/>
 
 </p>
 
 <br/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-
-<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-
-</p>
-
----
-
-# What I Build
-
 <table>
+
 <tr>
 
 <td width="33%" align="center">
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/vercel/7C3AED" width="55"/>
+<img src="https://cdn.simpleicons.org/googlechrome/A78BFA" width="55"/>
 
 <br/><br/>
 
-## Websites
+## Sites
 
-Modern and personalized websites designed for businesses and professionals.
-
-<br/>
+Experiências digitais modernas para empresas e profissionais.
 
 </td>
 
 <td width="33%" align="center">
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/react/7C3AED" width="55"/>
+<img src="https://cdn.simpleicons.org/figma/A78BFA" width="55"/>
 
 <br/><br/>
 
-## Interfaces
+## Design
 
-Responsive interfaces focused on modern user experiences.
-
-<br/>
+Interfaces modernas desenvolvidas com foco na experiência visual.
 
 </td>
 
 <td width="33%" align="center">
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/github/7C3AED" width="55"/>
+<img src="https://cdn.simpleicons.org/github/A78BFA" width="55"/>
 
 <br/><br/>
 
-## Projects
+## Desenvolvimento
 
-Digital projects built with clean organization and professional presentation.
-
-<br/>
+Projetos organizados e desenvolvidos para funcionar em diferentes dispositivos.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# Development Flow
+# TECNOLOGIAS
+
+<p align="center">
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark"
+/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-030712?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+<img src="https://img.shields.io/badge/CSS-030712?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-030712?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-030712?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+</p>
+
+---
+
+# FLUXO DE DESENVOLVIMENTO
 
 <p align="center">
 
 ```text
-IDEA
- │
- ▼
-DESIGN
- │
- ▼
-DEVELOPMENT
- │
- ▼
-OPTIMIZATION
- │
- ▼
-DEPLOYMENT
+┌──────────────────────────────┐
+│           IDEIA              │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│          ESTRATÉGIA          │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│            DESIGN            │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│       DESENVOLVIMENTO        │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│        OTIMIZAÇÃO            │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│          LANÇAMENTO          │
+└──────────────────────────────┘
