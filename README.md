@@ -1,51 +1,56 @@
----
-
-# PROJETOS EM DESTAQUE
-
-<p align="center">
-
-<img 
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=CLIENT+PROJECTS+DETECTED...;2+PROJETOS+EM+OPERA%C3%87%C3%83O...;SITES+DESENVOLVIDOS+PARA+CLIENTES..."
-/>
-
-</p>
-
-<br/>
+<!-- ============================================================ -->
+<!--                    NILTON DEVELOPER SYSTEM                   -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img 
-src="https://i.postimg.cc/9FNy07HZ/Chat-GPT-Image-Sep-2-2026-01-43-49-AM.png"
-width="100%"
-alt="Projetos desenvolvidos"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:0F172A,65:312E81,100:7C3AED&text=NILTON%20DEVELOPER&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=TECNOLOGIA%20%E2%80%A2%20DESIGN%20%E2%80%A2%20EXPERI%C3%8ANCIA%20DIGITAL&descAlignY=62&descSize=17&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZED...;WEB+DEVELOPMENT+ONLINE;CREATING+DIGITAL+EXPERIENCES;BUILDING+THE+NEXT+PROJECT..." />
 
 </div>
 
 <br/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-02-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0B1020?style=for-the-badge&labelColor=7C3AED"/>
+<img src="https://img.shields.io/badge/BASE-BRASIL-0B1020?style=for-the-badge&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-0B1020?style=for-the-badge&labelColor=7C3AED"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-020617?style=for-the-badge&labelColor=7C3AED"/>
-
-<img src="https://img.shields.io/badge/TYPE-CLIENT_WEBSITES-020617?style=for-the-badge&labelColor=312E81"/>
-
-</p>
+</div>
 
 <br/>
 
+---
+
+# CENTRO DE DESENVOLVIMENTO
+
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="58%">
+
+## PERFIL
+
+Desenvolvedor web focado na criação de experiências digitais modernas, rápidas e personalizadas.
+
+Cada projeto é desenvolvido com foco em:
+
+<br/>
+
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│        CLIENT PROJECTS // SHOWCASE           │
-│                                              │
-│   [ 01 ]  WEBSITE                            │
-│   [ 02 ]  PROFESSIONAL WEBSITE               │
-│                                              │
-│   STATUS: ONLINE                             │
-│                                              │
-└──────────────────────────────────────────────┘
+DESIGN        → INTERFACES MODERNAS
+PERFORMANCE   → EXPERIÊNCIAS RÁPIDAS
+RESPONSIVIDADE→ TODOS OS DISPOSITIVOS
+PERSONALIZAÇÃO→ PROJETOS ÚNICOS
