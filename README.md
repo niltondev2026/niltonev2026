@@ -1,81 +1,76 @@
-<!-- ===================== HERO ===================== -->
+<!-- ========================= -->
+<!--       HERO ANIMADO        -->
+<!-- ========================= -->
 
-<div align="center">
-
-# 👋 Olá, eu sou o Nilton
-
-### 💻 WEB DEVELOPER • DIGITAL CREATOR
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;Criando+sites+modernos+e+personalizados.;Design.+Tecnologia.+Experi%C3%AAncia." />
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=300&section=header&text=NILTON%20DEVELOPER&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20DIGITAL%20EXPERIENCES&descAlignY=58&descSize=18"
+    width="100%"
+  />
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+<!-- ========================= -->
+<!--      TYPING ANIMATION     -->
+<!-- ========================= -->
 
-<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-111827?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Web+Developer;Building+modern+digital+experiences;Designing+interfaces+that+make+an+impact;Turning+ideas+into+real+projects"
+    alt="Typing Animation"
+  />
+</p>
 
-</div>
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ROLE-WEB_DEVELOPER-7C3AED?style=for-the-badge&labelColor=111111"/>
+
+<img src="https://img.shields.io/badge/FOCUS-WEB_EXPERIENCES-111111?style=for-the-badge&labelColor=7C3AED"/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=111111"/>
+
+</p>
 
 <br/>
 
 ---
 
-<!-- ===================== SOBRE ===================== -->
+# About
 
-# ⚡ Sobre mim
-
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F1aXdzNXU4ZTZ0cXJ5ZmZ4c3B4eG92eTNyNWZ2b2p3bDJqNnF2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
-
-💻 Desenvolvedor Web focado na criação de experiências digitais.
-
-🚀 Desenvolvo sites modernos, rápidos e personalizados.
-
-🎨 Meu objetivo é transformar ideias em projetos digitais com design profissional.
-
-🔒 Projetos de clientes possuem código-fonte privado para proteger o trabalho e informações envolvidas.
-
-<br clear="right"/>
-
----
-
-<!-- ===================== SERVIÇOS ===================== -->
-
-<div align="center">
-
-# 🌐 O que eu desenvolvo
-
-</div>
-
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="33%">
+<td width="60%">
 
-## 🏢
+## Building digital experiences
 
-### Sites Institucionais
+I am a web developer focused on creating modern, responsive and personalized digital experiences.
 
-Sites modernos para empresas e profissionais.
+My work combines design, technology and functionality to transform ideas into professional websites.
+
+I focus on:
+
+- Modern interfaces
+- Responsive experiences
+- Custom websites
+- Landing pages
+- Digital projects for clients
+
+Some client projects remain private to protect source code and project information.
 
 </td>
 
-<td align="center" width="33%">
+<td width="40%" align="center">
 
-## 🚀
-
-### Landing Pages
-
-Páginas criadas para apresentar produtos e serviços.
-
-</td>
-
-<td align="center" width="33%">
-
-## 🎨
-
-### Interfaces Modernas
-
-Experiências responsivas e personalizadas.
+<img
+src="https://github.com/your-github-username.png"
+width="220"
+style="border-radius:50%;"
+alt="Profile"
+/>
 
 </td>
 
@@ -84,41 +79,103 @@ Experiências responsivas e personalizadas.
 
 ---
 
-<!-- ===================== TECNOLOGIAS ===================== -->
+# Tech Stack
 
-<div align="center">
+<p align="center">
 
-# 🛠️ Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark"/>
+
+</p>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode&perline=9" />
+<p align="center">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 
-<img src="https://img.shields.io/badge/CLEAN-CODE-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RESPONSIVE-DESIGN-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MODERN-UI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+</p>
 
 ---
 
-<!-- ===================== PROCESSO ===================== -->
+# What I Build
 
-# ⚙️ Meu processo
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/vercel/7C3AED" width="55"/>
+
+<br/><br/>
+
+## Websites
+
+Modern and personalized websites designed for businesses and professionals.
+
+<br/>
+
+</td>
+
+<td width="33%" align="center">
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/react/7C3AED" width="55"/>
+
+<br/><br/>
+
+## Interfaces
+
+Responsive interfaces focused on modern user experiences.
+
+<br/>
+
+</td>
+
+<td width="33%" align="center">
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/github/7C3AED" width="55"/>
+
+<br/><br/>
+
+## Projects
+
+Digital projects built with clean organization and professional presentation.
+
+<br/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Development Flow
+
+<p align="center">
 
 ```text
-💡 IDEIA
-   │
-   ▼
-🎨 DESIGN
-   │
-   ▼
-💻 DESENVOLVIMENTO
-   │
-   ▼
-⚡ OTIMIZAÇÃO
-   │
-   ▼
-🚀 PROJETO ONLINE
+IDEA
+ │
+ ▼
+DESIGN
+ │
+ ▼
+DEVELOPMENT
+ │
+ ▼
+OPTIMIZATION
+ │
+ ▼
+DEPLOYMENT
